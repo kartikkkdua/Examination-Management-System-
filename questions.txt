@@ -1,0 +1,11 @@
+a,b,c,d,e,a
+What happens when you create an "instance" of a class?,You make a new object based on the class,You change the class itself,You delete the class,You rename the class,A
+What is a simple way to think about an "object"?,A blueprint,An action,A real-world thing,A set of rules,C
+What helps in organizing code into logical groups in OOP?,Using separate files,Using comments,Using classes,Using simple variables,C
+What is a basic building block in OOP?,A function,A class,A variable,A loop,B
+What is the idea behind making code "reusable" in OOP?,Writing code once and using it in different places,Writing the same code multiple times,Making code very specific to one situation,Deleting old code after using it,A
+What is a common way to control access to data inside an object?,Making some data "private",Making all data "public",Deleting unnecessary data,Combining all data into one place,A
+k,a,b,c,d,a
+What do objects do in OOP?,They perform actions and hold information,They only store data,They only perform calculations,They define the structure of a program,A
+null,null,null,null,null,null
+ad,a,v,b,c,a
